@@ -1,0 +1,20 @@
+import tkinter as tk
+
+# writing code needs to
+# create the main window of
+# the application creating
+# main window object named root
+root = tk.Tk()
+
+# giving title to the main window
+root.title("First_Program")
+
+# Label is what output will be
+# show on the window
+label =tk.Label(root, text ="Hello World !")
+label.pack()
+
+# calling mainloop method which is used
+# when your application is ready to run
+# and it tells the code to keep displaying
+root.mainloop()

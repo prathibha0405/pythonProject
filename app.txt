@@ -1,0 +1,3 @@
+"hello everyone
+I'm a beginner in python
+And I'm looking forward to become a SDE"
